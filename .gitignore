@@ -1,0 +1,21 @@
+# Ignore datasets
+*.csv
+*.xlsx
+*.xls
+
+# Ignore model files
+*.pkl
+*.h5
+
+# Ignore image folders
+CovidImages/
+NormalImages/
+Test images/
+
+# Ignore generated folders
+__pycache__/
+.ipynb_checkpoints/
+
+# Env
+.env
+venv/
